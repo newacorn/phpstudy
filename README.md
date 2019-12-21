@@ -1,0 +1,4 @@
+# phpstudycentos
+<?php
+echo "dog";
+?>
